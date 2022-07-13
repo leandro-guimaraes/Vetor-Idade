@@ -1,0 +1,14 @@
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.exe
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.deps.json
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.runtimeconfig.json
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.runtimeconfig.dev.json
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.dll
+C:\Users\AMD\source\repos\aulayou\aulayou\bin\Debug\netcoreapp3.1\aulayou.pdb
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.csproj.AssemblyReference.cache
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.AssemblyInfoInputs.cache
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.AssemblyInfo.cs
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.dll
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.pdb
+C:\Users\AMD\source\repos\aulayou\aulayou\obj\Debug\netcoreapp3.1\aulayou.genruntimeconfig.cache
